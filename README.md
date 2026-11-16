@@ -2,6 +2,8 @@
 
 This is my firmware portfolio. I use it to document what I build and test while learning embedded C, Embedded Linux, and STM32.
 
+[LumenBit Lab 技術部落格](https://github.com/lumenbitlab-commits/uart-loopback-c/tree/main/docs)
+
 ## Current progress
 
 | Milestone | Status | What I did |
